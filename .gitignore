@@ -1,0 +1,8 @@
+#ignore compiled binary
+sudoku_solver
+
+#ignore object files
+*.o
+
+#ignore editor backup files
+*~
